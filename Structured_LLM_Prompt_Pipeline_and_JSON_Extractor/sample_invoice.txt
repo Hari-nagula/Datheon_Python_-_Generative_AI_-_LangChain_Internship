@@ -1,0 +1,17 @@
+INVOICE
+
+Invoice Ref: INV-2026-1042
+
+Issued by: Sunrise Office Supplies Pvt. Ltd.
+Address: 14 Lake View Road, Hyderabad, Telangana
+
+Bill To: Datheon Technologies
+Invoice Date: 22 October 2026
+
+Description: Office stationery and printer supplies
+Subtotal: INR 4,800.00
+GST: INR 864.00
+
+Please remit the total amount of INR 5,664.00.
+
+Payment Terms: Due within 15 days.
